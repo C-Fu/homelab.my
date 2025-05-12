@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Full_Logo_and_Text" data-name="Full Logo and Text" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 3319.2 1000">
+  <defs>
+    <style>
+      .cls-1 {
+        letter-spacing: -.09em;
+      }
+
+      .cls-1, .cls-2, .cls-3 {
+        fill: #a0fe2f;
+        font-family: Geologica-Medium, Geologica;
+        font-size: 430.9px;
+        font-variation-settings: 'wght' 500, 'CRSV' 0, 'SHRP' 0, 'slnt' 0;
+        font-weight: 500;
+      }
+
+      .cls-4 {
+        fill: #a0fe2f;
+      }
+
+      .cls-2 {
+        letter-spacing: -.04em;
+      }
+
+      .cls-5 {
+        fill: url(#linear-gradient);
+      }
+
+      .cls-3 {
+        letter-spacing: -.12em;
+      }
+    </style>
+    <linearGradient id="linear-gradient" x1="866.28" y1="1104.81" x2="127.55" y2="1808.59" gradientTransform="translate(-194 -896)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#73fe72"/>
+      <stop offset="1" stop-color="#bdfe01"/>
+    </linearGradient>
+  </defs>
+  <path id="outer_box" data-name="outer box" class="cls-5" d="M9.81,0l744.59,289.63,89.12,595.98L9.81,1000M727.3,315.14L92.02,88.3l13.69,819.97,697.71-64.3-76.13-528.83Z"/>
+  <path id="H_invert" data-name="H invert" class="cls-4" d="M649.55,346.51l-2.57,67.51-76.48,19.97c.05,2.33,1.02,4.45,1.11,6.8.84,22.91,1.22,45.75,2.02,68.6.15,4.29,2.98,23.26.09,25.3l-114.92,23.67,4.2-95.91-66.35,15.85-30.61,297.17h-133.85v-428.96h417.36Z"/>
+  <polygon id="innterbox" class="cls-4" points="576.82 601.57 583.12 757.51 448.25 769.14 455.03 622.58 576.82 601.57"/>
+  <text class="cls-3" transform="translate(2648.25 686.56)"><tspan x="0" y="0">.my</tspan></text>
+  <text class="cls-1" transform="translate(840.22 686.56)"><tspan x="0" y="0">Home</tspan></text>
+  <text class="cls-2" transform="translate(1928.97 686.55)"><tspan x="0" y="0">L</tspan></text>
+  <text class="cls-2" transform="translate(2154.67 686.55)"><tspan x="0" y="0">A</tspan></text>
+  <text class="cls-2" transform="translate(2422.61 686.55)"><tspan x="0" y="0">B</tspan></text>
+</svg>
